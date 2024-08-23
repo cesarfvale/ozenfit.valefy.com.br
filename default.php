@@ -94,7 +94,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" onclick="acceptCookies()" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-                <p>Este site usa cookies para personalizar conteúdo e anúncios, fornecer recursos de mídia social e analisar nosso tráfego. Ao clicar em Aceitar, você concorda com o uso de cookies. Para mais informações, por favor visite nossa <a href="https://ev.braip.com/ref?pv=prodzxk5&af=afip12y9jg">Política de Cookies</a></p>
+                <p>Este site usa cookies para personalizar conteúdo e anúncios, fornecer recursos de mídia social e analisar nosso tráfego. Ao clicar em Aceitar, você concorda com o uso de cookies. Para mais informações, por favor visite nossa <a href="ozenfit.php">Política de Cookies</a></p>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-success" onclick="acceptCookies()">Aceitar</button>
@@ -117,7 +117,7 @@
 
     function acceptCookies() {
         document.getElementById('cookieModal').style.display = "none";
-        window.location.href = "https://ev.braip.com/ref?pv=prodzxk5&af=afip12y9jg";
+        window.location.href = "ozenfit.php";
     }
 </script>
 
